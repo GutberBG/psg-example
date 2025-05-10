@@ -1,0 +1,13 @@
+print("Persona: Hola mi gatito hermoso")
+print("Gato: Miau")
+print("Persona: ¿Cómo estás?")
+print("Gato: Miau")
+print("Persona: ¿Quieres jugar?")
+print("Gato: Miau")
+print("Persona: ¿Quieres comer croquetas?")
+print("Gato: Miau Miau")
+print("Persona: ¿Quieres dormir?")
+print("Gato: Miau")
+print("Persona: ¿Quieres salir?")
+print("Gato: Miau")
+
