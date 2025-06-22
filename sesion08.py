@@ -23,8 +23,6 @@ agenda = {('Juan','Perez'): 1234567}
 
 tupla = (1,2.0,'hola',True)
 
-mi_tupla = (elemento1, elemento2, elemento3, ...)
-
 print ("Tupla de enteros")
 enteros = (1,2,3,4,5,6)
 print (enteros)
